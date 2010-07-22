@@ -1,0 +1,7 @@
+#summary A Framework for developing Remote Controlled Web Applications.
+
+= Introduction =
+
+Please read the full paper submitted to MobiCASE 2010 which is download-able [[here][http://code.google.com/p/magic-wand/downloads/list]].
+
+= Details =
