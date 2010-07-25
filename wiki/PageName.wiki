@@ -1,8 +1,8 @@
 #Instructions to set up Magicwand on Android phone.
-_italic_ Note : Magicwand will only work on firmware version 2.0 and beyond 
+_ Note : Magicwand will only work on firmware version 2.0 and beyond_
 
 == Pre phone settings ==
-  *In settings -> Applications -> Development , ensure that USB debugging is enabled , Stay Awake is enabled and Allow mock locations is enabled.
+  * In settings -> Applications -> Development , ensure that USB debugging is enabled , Stay Awake is enabled and Allow mock locations is enabled.
 
 == Steps ==
   # Connect your your phone with your computer.
