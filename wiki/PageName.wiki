@@ -1,4 +1,5 @@
 #Instructions to set up Magicwand on Android phone.
+
 _ Note : Magicwand will only work on firmware version 2.0 and beyond_
 
 == Pre phone settings ==
