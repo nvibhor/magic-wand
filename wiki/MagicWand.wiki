@@ -7,4 +7,6 @@ Please read the full paper submitted to MobiCASE 2010 which is download-able [ht
 = Prototype =
 To see a demo of the framework in action, see [http://www.screentoaster.com/watch/stUEhdQUBLRFtYR11UXFhfXldS/tiltymap_using_magic_wand tiltymap video]
 
+To play with the demo yourself, follow the [InstallInstructions instructions]. 
+
 = Details =
