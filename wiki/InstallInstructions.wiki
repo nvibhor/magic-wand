@@ -5,7 +5,7 @@ _ Note :
   * Ensure that the desktop and the android phone are on the same network._
 
 == Pre phone settings ==
-  * In settings -> Applications -> Development , ensure that USB debugging is enabled , Stay Awake is enabled and Allow mock locations is enabled.
+  * In Settings -> Applications -> Development , ensure that USB debugging is enabled , Stay Awake is enabled and Allow mock locations is enabled.
   * Ensure that you have File manager application on your android
 
 
