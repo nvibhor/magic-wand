@@ -1,3 +1,4 @@
+#summary Instructions to set up Magicwand on Android phone
 =Instructions to set up Magicwand on Android phone=
 
 _ Note : 
@@ -27,4 +28,3 @@ Now your are ready to use your phone as remote to control your movements on the 
   * Pinch scaling to zoom in and zoom out
   * Voice commands to change the map type 
   * Voice commands to search a place
-
