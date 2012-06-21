@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Please read the full paper submitted to MobiCASE 2010 which is download-able [http://code.google.com/p/magic-wand/downloads/detail?name=magicwand.pdf&can=2&q= here].
+Please read the full paper submitted to MobiCASE 2010 [http://rd.springer.com/chapter/10.1007/978-3-642-29336-8_19 here].
 
 = Prototype =
 To see a demo of the framework in action, see [http://www.screentoaster.com/watch/stUEhdQUBLRFtYR11UXFhfXldS/tiltymap_using_magic_wand tiltymap video]
